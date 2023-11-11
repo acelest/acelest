@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-# 💫 About Me:
-1. 👨‍💻 Passionate Student Developer: Coding Enthusiast.<br>2. 🚀 Co-Founder @patcelest: Building Dreams.<br>3 🌐 Web and Flutter Enthusiast.<br>5
+# About Acelest:
+1. 👨‍💻 Passionate Student Developer: Coding Enthusiast.<br>2. 🚀 Co-Founder @patcelest: Building Dreams.<br>3 🌐 Web and Flutter Enthusiast.<br>
 
 
 ## 🌐 Socials:
