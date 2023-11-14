@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# About Acelest:
+# About Aubin Djou:
  👨‍💻 Passionate Student Developer: Coding Enthusiast.<br> 🚀 Co-Founder @patcelest: Building Dreams.<br> 🌐 Web and Flutter Enthusiast.<br>
 
 
