@@ -8,8 +8,8 @@
 
    ## My bento : https://bento.me/aubindjou
 
-Follow me on 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acelestcode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aubin-djou)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
 
