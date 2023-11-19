@@ -10,7 +10,9 @@
 
 Follow me on 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acelestcode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aubin-djou)  
-[View My NPM Profile](https://www.npmjs.com/acelest)
+
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
+
 
 
 ## Backend Development:
