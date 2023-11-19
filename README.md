@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=red)
 
 
 
