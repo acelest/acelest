@@ -3,7 +3,6 @@
 ## My name is Aubin Djou,i'have 19 years and i'm camerounian:
 
  👨‍💻Student Developer<br>
-🚀 Co-Founder @patcelest: Building Dreams<br>
 🌐 Web Full stack and Flutter Enthusiast<br>
 
    ## My bento : https://bento.me/aubindjou
