@@ -1,18 +1,17 @@
-# Hello world 👋
+# Hello World 👋
 
-## My name is Aubin Djou,i'have 19 years and i'm camerounian:
+## About Me
+I'm Aubin Djou, a 19-year-old student from Cameroon. I'm passionate about full-stack web development and mobile app development.
 
- 👨‍💻Student Developer<br>
-🌐 Web Full stack and Flutter Enthusiast<br>
+- 👨‍💻 Web Developer with experience in Next.js, Vue.js, and Node.js.
+- 📱 Mobile Developer focused on Flutter.
+- 🌍 Enthusiast of Django, Laravel, and other backend technologies.
 
-   ## My bento : https://bento.me/aubindjou
+## My Bento
+Check out my bento box for all my links: [bento.me/aubindjou](https://bento.me/aubindjou)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=red)
 
-
-### 💰 Can buy me coffee ?
-### [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acelestcode) 
-
+### 💰 Buy Me a Coffee?
+If you enjoy my work, feel free to [buy me a coffee](https://buymeacoffee.com/acelestcode) ☕
