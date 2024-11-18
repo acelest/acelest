@@ -15,4 +15,4 @@ Hi, I'm **Aubin Djou**, a student from Cameroon, currently studying at **K L Uni
 ## Support Me  
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/acelestcode)  
 
-![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=vert)
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=yellow)
