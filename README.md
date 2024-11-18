@@ -8,7 +8,7 @@ Hi, I'm **Aubin Djou**, a student from Cameroon, currently studying at **K L Uni
 - 🌍 **Backend Enthusiast**: Django, Laravel  
 
 ## Links  
-🔗 [My Bento Box](https://bento.me/aubindjou)
+🔗 [My Bento](https://bento.me/aubindjou)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
 
