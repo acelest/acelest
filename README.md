@@ -1,21 +1,18 @@
-# Hello World 👋
-https://acelestdev.vercel.app/ (building....)
+# Hello World 👋  
+🌐 [Portfolio (En construction)](https://acelestdev.vercel.app/)
 
-## About Me
-I'm Aubin Djou, a 19-year-old student from Cameroon. I'm passionate about full-stack web development and mobile app development.
+## About Me  
+Hi, I'm **Aubin Djou**, a student from Cameroon, currently studying at **K L University, India**. Passionate about:  
+- 👨‍💻 **Web Development**: Next.js, Vue.js, Node.js  
+- 📱 **Mobile Development**: Flutter  
+- 🌍 **Backend Enthusiast**: Django, Laravel  
 
-- 👨‍💻 Web Developer with experience in Next.js, Vue.js, and Node.js.
-- 📱 Mobile Developer focused on Flutter.
-- 🌍 Enthusiast of Django, Laravel, and other backend technologies.
-
-## My Bento
-Check out my bento box for all my links: [bento.me/aubindjou](https://bento.me/aubindjou)
+## Links  
+🔗 [My Bento Box](https://bento.me/aubindjou)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
 
+## Support Me  
+☕ [Buy Me a Coffee](https://buymeacoffee.com/acelestcode)  
 
-### 💰 Buy Me a Coffee?
-
-If you enjoy my work, feel free to [buy me a coffee](https://buymeacoffee.com/acelestcode) ☕
-##
- ![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=vert)
