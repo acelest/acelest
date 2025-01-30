@@ -1,5 +1,5 @@
 # Hello World 👋  
-🌐 Click here  { https://acelestdev.vercel.app/ } https://bento.me/aubindjou
+🌐 Click here  { https://acelestdev.vercel.app/ }
  
 ## About Me  
 Hi, I'm **Aubin Djou**, a student from Cameroon, currently studying at **K L University, India**. Passionate about:  
