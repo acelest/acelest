@@ -2,7 +2,7 @@
 🌐 Click here  { https://acelestdev.vercel.app/ }
  
 ## About Me  
-Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University, India**. Passionate about:  
+Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University**. Passionate about:  
 - 👨‍💻 **Web Development**: Next.js, Nuxtjs, Vue.js, Node.js
 - 📱 **Mobile Development**: Flutter  
 - 🌍 **Backend Enthusiast**: Django, Laravel 
