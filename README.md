@@ -12,7 +12,7 @@ Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L Uni
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
 
-## Support Me  
+## Support Me
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/acelestcode)  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=yellow)
