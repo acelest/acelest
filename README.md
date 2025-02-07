@@ -3,9 +3,9 @@
  
 ## About Me  
 Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University, India**. Passionate about:  
-- 👨‍💻 **Web Development**: Next.js, Vue.js, Node.js.
+- 👨‍💻 **Web Development**: Next.js, Nuxtjs, Vue.js, Node.js
 - 📱 **Mobile Development**: Flutter  
-- 🌍 **Backend Enthusiast**: Django, Laravel  
+- 🌍 **Backend Enthusiast**: Django, Laravel 
 
 ## Links  
 🔗 [My Bento](https://bento.me/aubindjou)
