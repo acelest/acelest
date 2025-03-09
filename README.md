@@ -1,7 +1,6 @@
 # Hello_World 👋  
 
-
-[My Personal website](https://acelestdev.vercel.app)
+🔗 [My Personal website](https://acelestdev.vercel.app)
  
 ## About Me:  
 Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University**. Passionate about: 
@@ -11,6 +10,8 @@ Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L Uni
 - 🌍 **Backend Enthusiast**: Django, Laravel  Node.js
 
 ## Links  
+[My Personal website](https://acelestdev.vercel.app)
+
 🔗 [My Bento](https://bento.me/aubindjou)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
