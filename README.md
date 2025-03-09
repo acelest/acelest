@@ -9,10 +9,10 @@ Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L Uni
 - 📱 **Mobile Development**: Flutter  
 - 🌍 **Backend Enthusiast**: Django, Laravel  Node.js
 
-## Links  
+## 🔗  Links  
+🔗 
 [My Personal website](https://acelestdev.vercel.app)
-
-🔗 [My Bento](https://bento.me/aubindjou)
+[My Bento](https://bento.me/aubindjou)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
 
