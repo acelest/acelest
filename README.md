@@ -1,24 +1,36 @@
-## Hello World /👋  
-![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
 
-🔗 [My Personal website](https://acelestdev.vercel.app)
- 
-## About Me:  
-Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University**. Passionate about: 
-🚀 Web Dev | Cloud Engineer | MCA Student ☁️
-💻 Building SaaS, scaling in the cloud, & optimizing systems.
-⚡ Passion for backend, DevOps, and distributed computing.
-🔭 Exploring AI, microservices & serverless tech.
-🛠️ Stack: Django | Next.js | Vuejs.. | Docker | AWS | PostgreSQL
-📍 Nomad mindset – Coding from anywhere 🌍
-🔥 "Ship fast, optimize later." 🚀
+## **Hello World!** 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)  
 
-## 🔗  Links  
-[My Bento](https://bento.me/aubindjou)
+🔗 [**My Personal Website**](https://acelestdev.vercel.app)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact)
+---
 
-## Support me with coffe
-☕ [Buy Me a Coffee](https://buymeacoffee.com/acelestcode)  
+## **About Me** 🚀  
+Hi, I'm **Aubin Djou**, a student from **Cameroon**, currently studying at **K L University**.  
 
-![image](https://github.com/user-attachments/assets/5a8def61-a658-48fd-b3e8-7382a4f08995)
+💡 **Passionate about:**  
+- 🏗 **Building SaaS** | Scaling in the cloud | Optimizing performance  
+- ⚙️ **Backend, DevOps & Distributed Computing**  
+- 🤖 Exploring **AI, Microservices & Serverless Architectures**  
+
+💻 **Tech Stack:**  
+🛠 Django | Next.js | Vue.js | Docker | AWS | PostgreSQL  
+
+📍 **Nomad mindset** – Coding from anywhere 🌍  
+🔥 **"Ship fast, optimize later."** 🚀  
+
+---
+
+## **🔗 Connect with me**  
+📌 [**My Bento Profile**](https://bento.me/aubindjou)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact&theme=radical)  
+
+---
+
+## **Support My Work** ☕  
+[**Buy Me a Coffee**](https://buymeacoffee.com/acelestcode)  
+
+---
+
