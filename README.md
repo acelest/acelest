@@ -22,15 +22,15 @@ Hi, I'm **Aubin Djou**, a student from **Cameroon**, currently studying at **K L
 
 ---
 
-## **🔗 Connect with me**  
-📌 [**My Bento Profile**](https://bento.me/aubindjou)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact&theme=radical)  
 
 ---
 
 ## **Support My Work** ☕  
 [**Buy Me a Coffee**](https://buymeacoffee.com/acelestcode)  
+
+## **🔗 Connect with me (chat, telegram..)**  
+📌 [**My Bento Profile**](https://bento.me/aubindjou)  
 
 ---
 
