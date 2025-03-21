@@ -5,10 +5,13 @@
  
 ## About Me:  
 Hi, I'm **Aubin Djou**, a student from cameroon, currently studying at **K L University**. Passionate about: 
-
-- 👨‍💻 **Web Development**: Next.js, Nuxtjs, Vue.js,
-- 📱 **Mobile Development**: Flutter  
-- 🌍 **Backend Enthusiast**: Django, Laravel  Node.js
+🚀 Web Dev | Cloud Engineer | MCA Student ☁️
+💻 Building SaaS, scaling in the cloud, & optimizing systems.
+⚡ Passion for backend, DevOps, and distributed computing.
+🔭 Exploring AI, microservices & serverless tech.
+🛠️ Stack: Django | Next.js | Vuejs.. | Docker | AWS | PostgreSQL
+📍 Nomad mindset – Coding from anywhere 🌍
+🔥 "Ship fast, optimize later." 🚀
 
 ## 🔗  Links  
 [My Bento](https://bento.me/aubindjou)
