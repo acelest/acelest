@@ -15,7 +15,7 @@ Hi, I'm **Aubin Djou**, a student from **Cameroon**, currently studying at **K L
 - 🤖 Exploring **AI, Microservices & Serverless Architectures**  
 
 💻 **Tech Stack:**  
-🛠 Django | Next.js | Vue.js | Docker | AWS | PostgreSQL  
+🛠 Django | Next.js | Vue.js | Docker | AWS | PostgreSQL | Node js 
 
 📍 **Nomad mindset** – Coding from anywhere 🌍  
 🔥 **"Ship fast, optimize later."** 🚀  
