@@ -1,7 +1,10 @@
 ## 👋 Hey, I'm Aubin Djou  
 🌍 [acelestdev.me](https://acelestdev.me) &nbsp;&nbsp;•&nbsp;&nbsp; 🧠 Dev from Code to Cloud  
+![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
+
 
 ---
+🔥 _"Build fast. Scale smart."_ 
 
 ### 🚀 What I Do  
 - Craft & scale modern web apps (SaaS, APIs, Infra)  
@@ -11,15 +14,14 @@
 ---
 
 ### 🛠 Tech Stack  
-**Frameworks & Tools:** Django • Next.js • Vue.js • Node.js and Laravel 
+**Frameworks & Tools:** Django • Next.js • Vue.js • Node.js
 **DevOps & Infra:** Docker • AWS • PostgreSQL • CI/CD • Linux  
 **Focus Areas:** Serverless • Microservices • AI Integration • System Design  
 
 ---
 
-### 📍 Nomadic Coder  
-Remote-first • Async-ready • Maker mindset  
-🔥 _"Build fast. Scale smart."_  
+ 
+ 
 
 ---
 
@@ -28,6 +30,3 @@ Remote-first • Async-ready • Maker mindset
 ☕ [Buy Me a Coffee](https://buymeacoffee.com/acelestcode)  
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acelest&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=acelest&color=green)
