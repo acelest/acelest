@@ -7,7 +7,7 @@
 ---
 
 ## **About Me** 🚀  
-Hi, I'm **Aubin Djou**, a student from **Cameroon**, currently studying at **K L University**.  
+Hi, I'm **Aubin Djou**.  
 
 💡 **Passionate about:**  
 - 🏗 **Building SaaS** | Scaling in the cloud | Optimizing performance  
