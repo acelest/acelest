@@ -11,7 +11,7 @@
 ---
 
 ### 🛠 Tech Stack  
-**Frameworks & Tools:** Django • Next.js • Vue.js • Node.js  
+**Frameworks & Tools:** Django • Next.js • Vue.js • Node.js and Laravel 
 **DevOps & Infra:** Docker • AWS • PostgreSQL • CI/CD • Linux  
 **Focus Areas:** Serverless • Microservices • AI Integration • System Design  
 
