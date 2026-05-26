@@ -1,7 +1,7 @@
-acelest
+aubin djou
 
-mobile product engineer.
+react native / ios
 
-react native / ios.
-
-boost habit · replock · reelgrabber
+boost habit
+replock
+reelgrabber
