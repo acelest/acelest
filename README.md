@@ -39,6 +39,14 @@ Full-stack engineer. I build web and mobile products end to end, then the intern
 
   Your favourite creators' Instagram reels, as audio. Python.
 
+### Lab
+
+<img src="assets/faceless/banner.jpg" alt="Vincent and Jules, the sticker characters of my faceless lab" width="100%" />
+
+**Faceless lab** · private
+
+My own faceless video editor, driven by Claude Code: explainer shorts played by Pulp Fiction sticker characters, with my voice on top. Remotion and whisper.cpp for the edit, Codex for the characters. Based on [Melvynx's video-agent-skills](https://github.com/Melvynx/video-agent-skills) (MIT).
+
 ### Client work
 
 Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/projets)
