@@ -2,12 +2,10 @@
 
 Full-stack engineer. I build web and mobile products end to end, then the internal tools and automations around them.
 
-<p>
-  <a href="https://acelest.dev"><img src="assets/icons/globe.svg" width="16" height="16" align="center" alt="" /> acelest.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://discord.com/users/1073221792610660403"><img src="assets/icons/discord.svg" width="16" height="16" align="center" alt="" /> acelestdev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ledeveloppeuraubindjou/"><img src="assets/icons/linkedin.svg" width="16" height="16" align="center" alt="" /> LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:aubin@acelest.dev"><img src="assets/icons/mail.svg" width="16" height="16" align="center" alt="" /> aubin@acelest.dev</a>
-</p>
+* 🌐 [acelest.dev](https://acelest.dev)
+* 💬 Discord: [acelestdev](https://discord.com/users/1073221792610660403)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ledeveloppeuraubindjou/)
+* ✉️ [aubin@acelest.dev](mailto:aubin@acelest.dev)
 
 ### Now
 
@@ -15,7 +13,7 @@ Full-stack engineer. I build web and mobile products end to end, then the intern
 
 ### Education
 
-<img src="assets/icons/graduation-cap.svg" width="16" height="16" align="center" alt="" /> **KL University** · Master of Computer Applications (MCA), Cloud Computing · 2024 – 2026
+🎓 **KL University** · Master of Computer Applications (MCA), Cloud Computing · 2024 – 2026
 
 ### Products
 
@@ -48,17 +46,19 @@ Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/proje
 ### Tools
 
 <p>
-  <img src="assets/icons/typescript.svg" width="26" height="26" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="assets/icons/nextdotjs.svg" width="26" height="26" title="Next.js" alt="Next.js" />&nbsp;&nbsp;
-  <img src="assets/icons/react.svg" width="26" height="26" title="React" alt="React" />&nbsp;&nbsp;
-  <img src="assets/icons/nodedotjs.svg" width="26" height="26" title="Node.js" alt="Node.js" />&nbsp;&nbsp;
-  <img src="assets/icons/expo.svg" width="26" height="26" title="Expo" alt="Expo" />&nbsp;&nbsp;
-  <img src="assets/icons/supabase.svg" width="26" height="26" title="Supabase" alt="Supabase" />&nbsp;&nbsp;
-  <img src="assets/icons/cloudflare.svg" width="26" height="26" title="Cloudflare" alt="Cloudflare" />&nbsp;&nbsp;
-  <img src="assets/icons/tailwindcss.svg" width="26" height="26" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="assets/icons/n8n.svg" width="26" height="26" title="n8n" alt="n8n" />&nbsp;&nbsp;
-  <img src="assets/icons/figma.svg" width="26" height="26" title="Figma" alt="Figma" />&nbsp;&nbsp;
-  <img src="assets/icons/claude.svg" width="26" height="26" title="Claude Code" alt="Claude Code" />
+  <img src="assets/tools/typescript.svg" width="40" height="40" title="TypeScript" alt="TypeScript" />
+  <img src="assets/tools/nextdotjs.svg" width="40" height="40" title="Next.js" alt="Next.js" />
+  <img src="assets/tools/react.svg" width="40" height="40" title="React & React Native" alt="React & React Native" />
+  <img src="assets/tools/nodedotjs.svg" width="40" height="40" title="Node.js" alt="Node.js" />
+  <img src="assets/tools/expo.svg" width="40" height="40" title="Expo" alt="Expo" />
+  <img src="assets/tools/apple.svg" width="40" height="40" title="iOS & App Store" alt="iOS & App Store" />
+  <img src="assets/tools/supabase.svg" width="40" height="40" title="Supabase" alt="Supabase" />
+  <img src="assets/tools/cloudflare.svg" width="40" height="40" title="Cloudflare Workers" alt="Cloudflare Workers" />
+  <img src="assets/tools/tailwindcss.svg" width="40" height="40" title="Tailwind CSS" alt="Tailwind CSS" />
+  <img src="assets/tools/n8n.svg" width="40" height="40" title="n8n" alt="n8n" />
+  <img src="assets/tools/docker.svg" width="40" height="40" title="Docker" alt="Docker" />
+  <img src="assets/tools/figma.svg" width="40" height="40" title="Figma" alt="Figma" />
+  <img src="assets/tools/claude.svg" width="40" height="40" title="Claude Code" alt="Claude Code" />
 </p>
 
 ### Activity
@@ -68,9 +68,6 @@ Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/proje
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=acelest&hide_border=true&background=faf9f5&ring=c0612d&fire=c0612d&currStreakNum=141413&sideNums=141413&currStreakLabel=141413&sideLabels=6f6e69&dates=6f6e69&stroke=e5e3da" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=acelest&bg_color=0f0f0e&color=9c9a92&line=c0612d&point=f2f0e8&area=true&area_color=c0612d&title_color=f2f0e8&hide_border=true&radius=6&custom_title=Contributions" />
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=acelest&bg_color=faf9f5&color=6f6e69&line=c0612d&point=141413&area=true&area_color=c0612d&title_color=141413&hide_border=true&radius=6&custom_title=Contributions" />
-</picture>
+<img alt="Contributions over the last year" src="https://raw.githubusercontent.com/acelest/acelest/output/contributions.svg" width="100%" />
 
-<p><img alt="Profile views" src="https://hits.sh/github.com/acelest.svg?style=flat-square&label=views&color=141413&labelColor=6f6e69" /></p>
+<p><img alt="Profile views" src="https://hits.sh/github.com/acelest.svg?style=flat-square&label=views&color=141413&labelColor=6f6e69" align="center" /> &nbsp;since October 11, 2026</p>
