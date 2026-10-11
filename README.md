@@ -2,14 +2,14 @@
 
 Full-stack engineer. I build web and mobile products end to end, then the internal tools and automations around them.
 
-* 🌐 [acelest.dev](https://acelest.dev)
-* 💬 Discord: [acelestdev](https://discord.com/users/1073221792610660403)
-* 💼 [LinkedIn](https://www.linkedin.com/in/ledeveloppeuraubindjou/)
+* <img src="assets/contact/acelest.svg" width="16" height="16" align="center" alt="" /> [acelest.dev](https://acelest.dev)
+* <img src="assets/contact/discord.svg" width="16" height="16" align="center" alt="" /> Discord: [acelestdev](https://discord.com/users/1073221792610660403)
+* <img src="assets/contact/linkedin.svg" width="16" height="16" align="center" alt="" /> [LinkedIn](https://www.linkedin.com/in/ledeveloppeuraubindjou/)
 * ✉️ [aubin@acelest.dev](mailto:aubin@acelest.dev)
 
 ### Now
 
-<img src="assets/logos/mybestsim.png" width="16" height="16" align="center" alt="" /> **MyBestSim** · Product engineering intern, working directly with the CEO. Since June 2026.
+**MyBestSim** · Product engineering intern, working directly with the CEO. Since June 2026.
 
 ### Education
 
@@ -58,16 +58,17 @@ Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/proje
   <img src="assets/tools/n8n.svg" width="40" height="40" title="n8n" alt="n8n" />
   <img src="assets/tools/docker.svg" width="40" height="40" title="Docker" alt="Docker" />
   <img src="assets/tools/figma.svg" width="40" height="40" title="Figma" alt="Figma" />
+  <img src="assets/tools/remotion.svg" width="40" height="40" title="Remotion (video in code)" alt="Remotion" />
   <img src="assets/tools/claude.svg" width="40" height="40" title="Claude Code" alt="Claude Code" />
 </p>
 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=acelest&hide_border=true&background=0f0f0e&ring=c0612d&fire=c0612d&currStreakNum=f2f0e8&sideNums=f2f0e8&currStreakLabel=f2f0e8&sideLabels=9c9a92&dates=9c9a92&stroke=2a2925" />
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=acelest&hide_border=true&background=faf9f5&ring=c0612d&fire=c0612d&currStreakNum=141413&sideNums=141413&currStreakLabel=141413&sideLabels=6f6e69&dates=6f6e69&stroke=e5e3da" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=acelest&hide_border=true&hide_total_contributions=true&background=0f0f0e&ring=c0612d&fire=c0612d&currStreakNum=f2f0e8&sideNums=f2f0e8&currStreakLabel=f2f0e8&sideLabels=9c9a92&dates=9c9a92&stroke=2a2925" />
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=acelest&hide_border=true&hide_total_contributions=true&background=faf9f5&ring=c0612d&fire=c0612d&currStreakNum=141413&sideNums=141413&currStreakLabel=141413&sideLabels=6f6e69&dates=6f6e69&stroke=e5e3da" />
 </picture>
 
-<img alt="Contributions over the last year" src="https://raw.githubusercontent.com/acelest/acelest/output/contributions.svg" width="100%" />
+<img alt="Contributions this year" src="https://raw.githubusercontent.com/acelest/acelest/output/contributions.svg" width="100%" />
 
 <p><img alt="Profile views" src="https://hits.sh/github.com/acelest.svg?style=flat-square&label=views&color=141413&labelColor=6f6e69" align="center" /> &nbsp;since October 11, 2026</p>
