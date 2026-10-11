@@ -1,16 +1,21 @@
 ### Aubin Djou
 
-Full-stack developer. I build web and mobile products end to end, then the internal tools and automations around them.
+Full-stack engineer. I build web and mobile products end to end, then the internal tools and automations around them.
 
-Product engineering intern at MyBestSim, working directly with the CEO.<br/>
-Portfolio and CV: [acelest.dev](https://acelest.dev)
+<p>
+  <a href="https://acelest.dev"><img src="assets/icons/globe.svg" width="16" height="16" align="center" alt="" /> acelest.dev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://discord.com/users/1073221792610660403"><img src="assets/icons/discord.svg" width="16" height="16" align="center" alt="" /> acelestdev</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ledeveloppeuraubindjou/"><img src="assets/icons/linkedin.svg" width="16" height="16" align="center" alt="" /> LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:aubin@acelest.dev"><img src="assets/icons/mail.svg" width="16" height="16" align="center" alt="" /> aubin@acelest.dev</a>
+</p>
 
-### Contact
+### Now
 
-* [acelest.dev](https://acelest.dev)
-* [LinkedIn](https://www.linkedin.com/in/ledeveloppeuraubindjou/)
-* [Mail](mailto:aubin@acelest.dev)
-* [Telegram](https://t.me/acelestdev)
+<img src="assets/logos/mybestsim.png" width="16" height="16" align="center" alt="" /> **MyBestSim** · Product engineering intern, working directly with the CEO. Since June 2026.
+
+### Education
+
+<img src="assets/icons/graduation-cap.svg" width="16" height="16" align="center" alt="" /> **KL University** · Master of Computer Applications (MCA), Cloud Computing · 2024 – 2026
 
 ### Products
 
@@ -40,6 +45,22 @@ Portfolio and CV: [acelest.dev](https://acelest.dev)
 
 Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/projets)
 
+### Tools
+
+<p>
+  <img src="assets/icons/typescript.svg" width="26" height="26" title="TypeScript" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="assets/icons/nextdotjs.svg" width="26" height="26" title="Next.js" alt="Next.js" />&nbsp;&nbsp;
+  <img src="assets/icons/react.svg" width="26" height="26" title="React" alt="React" />&nbsp;&nbsp;
+  <img src="assets/icons/nodedotjs.svg" width="26" height="26" title="Node.js" alt="Node.js" />&nbsp;&nbsp;
+  <img src="assets/icons/expo.svg" width="26" height="26" title="Expo" alt="Expo" />&nbsp;&nbsp;
+  <img src="assets/icons/supabase.svg" width="26" height="26" title="Supabase" alt="Supabase" />&nbsp;&nbsp;
+  <img src="assets/icons/cloudflare.svg" width="26" height="26" title="Cloudflare" alt="Cloudflare" />&nbsp;&nbsp;
+  <img src="assets/icons/tailwindcss.svg" width="26" height="26" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="assets/icons/n8n.svg" width="26" height="26" title="n8n" alt="n8n" />&nbsp;&nbsp;
+  <img src="assets/icons/figma.svg" width="26" height="26" title="Figma" alt="Figma" />&nbsp;&nbsp;
+  <img src="assets/icons/claude.svg" width="26" height="26" title="Claude Code" alt="Claude Code" />
+</p>
+
 ### Activity
 
 <picture>
@@ -47,4 +68,9 @@ Restaurants, events, e-commerce: [acelest.dev/projets](https://acelest.dev/proje
   <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=acelest&hide_border=true&background=faf9f5&ring=c0612d&fire=c0612d&currStreakNum=141413&sideNums=141413&currStreakLabel=141413&sideLabels=6f6e69&dates=6f6e69&stroke=e5e3da" />
 </picture>
 
-<p><img alt="Profile views" src="https://komarev.com/ghpvc/?username=acelest&style=flat-square&color=141413&label=views" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=acelest&bg_color=0f0f0e&color=9c9a92&line=c0612d&point=f2f0e8&area=true&area_color=c0612d&title_color=f2f0e8&hide_border=true&radius=6&custom_title=Contributions" />
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=acelest&bg_color=faf9f5&color=6f6e69&line=c0612d&point=141413&area=true&area_color=c0612d&title_color=141413&hide_border=true&radius=6&custom_title=Contributions" />
+</picture>
+
+<p><img alt="Profile views" src="https://hits.sh/github.com/acelest.svg?style=flat-square&label=views&color=141413&labelColor=6f6e69" /></p>
