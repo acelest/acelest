@@ -3,7 +3,7 @@
 Full-stack engineer. I build web and mobile products end to end, then the internal tools and automations around them.
 
 * <img src="assets/contact/acelest.svg" width="16" height="16" align="center" alt="" /> [acelest.dev](https://acelest.dev)
-* <img src="assets/contact/discord.svg" width="16" height="16" align="center" alt="" /> Discord: [acelestdev](https://discord.com/users/1073221792610660403)
+* <img src="assets/contact/discord.svg" width="16" height="16" align="center" alt="" /> [acelestdev](https://discord.com/users/1073221792610660403)
 * <img src="assets/contact/linkedin.svg" width="16" height="16" align="center" alt="" /> [LinkedIn](https://www.linkedin.com/in/ledeveloppeuraubindjou/)
 * ✉️ [aubin@acelest.dev](mailto:aubin@acelest.dev)
 
